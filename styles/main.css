@@ -51,3 +51,14 @@ ol{
   padding: 10px auto 10px auto;
   display: inline;
 }
+.otherlists{
+  border: 1px solid;
+  margin-bottom: 5px;
+
+}
+div#footer{
+  text-align:center;
+  background-color:none;
+  margin: 0.5em;
+  font-size: 0.9em;
+}
