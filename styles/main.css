@@ -36,6 +36,7 @@ padding: 8px 70px 8px 70px;
 
 ol{
   display: inline;
+
 }
 
 
@@ -57,10 +58,16 @@ ol{
 }
 .social{
   display: inline;
+  list-style-type: none;
 }
 footer{
   text-align:center;
   background-color:none;
   margin: 0.5em;
   font-size: 0.9em;
+}
+ul{list-style-type: none,
+
+
+
 }
